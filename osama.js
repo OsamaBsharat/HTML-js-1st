@@ -1,4 +1,4 @@
-//for(let i=0;i<100;i++)
-//console.log("Hi There")
-let pElement = document.getElementById('test');
+let pElement = document.getElementById('paraghraph');
 pElement.innerHTML="Welcome To my page";
+let c=hElement=document.getElementById('header');
+hElement.innerHTML="Heading 1";
